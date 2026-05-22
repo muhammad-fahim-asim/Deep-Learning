@@ -29,7 +29,3 @@ The goal is to demonstrate how a data-driven model can learn to map infix formul
 
 - Expressions are generated with a maximum syntactic depth of 3 to keep the training domain manageable.
 - The project uses TensorFlow/Keras for model definition and training.
-
-## Repository Description
-
-A neural translator for converting infix arithmetic expressions into postfix notation using a sequence model.
